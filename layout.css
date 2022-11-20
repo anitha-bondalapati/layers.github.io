@@ -1,0 +1,51 @@
+.image{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPRkM1o2l_mj-JnUuktb7-WkNdaylIwAdzfw&usqp=CAU");
+    height: 200vh;
+    width: 100vw;
+    background-size: cover;
+}
+.heading{
+    color: darkorange;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 25px;
+    text-align: center;
+}
+.layoutcard{
+    background-color:antiquewhite;
+    border-radius: 8px;
+    padding: 15px;
+    margin: 15px;
+
+}
+.brands{
+    color: #E21717;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.brandimage{
+    width: 90px;
+    height: 150px;
+}
+.brands1{
+    color: #6A1B4D;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.brands2{
+    color:#3DBE29 ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.brands3{
+    color:#E03B8B;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+
+}
+.brands4{
+    color:#FF6666;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
